@@ -2,7 +2,7 @@
 
 =========================================
 
-The  oppo r9s/sk is a high-end, mid-range smartphone from Xiaomi.
+The  oppo r9s/sk is a smartphone from oppo.
 
 
 ## Device specifications
