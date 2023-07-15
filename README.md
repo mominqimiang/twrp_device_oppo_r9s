@@ -18,10 +18,11 @@ Storage | 64 GB
 MicroSD | Up to 128 GB
 Battery | 3010 mAh (non-removable)
 Dimensions | 153 × 74.3 × 6.58 mm
-Display | 1080 x 1920 pixels, 5.5" IPS
+Display | oled（r9s） lcd（r9sk） 1080 x 1920 pixels, 5.5" IPS
 Rear Camera  | 16.0 MP, LED flash
 Front Camera | 16.0 MP
 Release Date | October 2016
+
 ![oppo r9s/sk](https://github.com/mominqimiang/twrp_device_oppo_r9s/blob/master/r9s.png)
 
 ### Hi there, This is mominqimiang 👋
