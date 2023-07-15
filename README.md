@@ -23,7 +23,7 @@ Rear Camera  | 16.0 MP, LED flash
 Front Camera | 16.0 MP
 Release Date | October 2016
 
-![oppo r9s/sk](https://github.com/mominqimiang/twrp_device_oppo_r9s/blob/master/r9s.png)
+![oppo r9s/sk](https://github.com/mominqimiang/twrp_device_oppo_r9s_r9sk/blob/master/r9s.png)
 
 ### Hi there, This is mominqimiang 👋
 
